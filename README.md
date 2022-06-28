@@ -1,2 +1,2 @@
-# dotfiles
-My personal .dotfiles / macOS configs 
+# `macOS-configs` ~/ dotfiles 🗃 🌱
+> My personal .dotfiles / macOS configs 
